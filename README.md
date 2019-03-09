@@ -36,8 +36,7 @@
 2.Pycharm IDE for integrating the trained classifier to our web application using Flask.
 
 **DATA/REPOSITORY'S USED**
-1.templates picked from template.co website
-2.https://github.com/leanderme/sytora- used this for getting the  multinomial Naive Bayes classifier which is trained on a handpicked dataset, which is freely available under CC4.0.
+1.Templates picked from template.co website
 
 
 
