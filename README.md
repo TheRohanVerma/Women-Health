@@ -18,22 +18,17 @@
 
 4.Information related to pregnancy and the phase.
 
-5.Best ovulation Period
-	#trcked based on the information inputted by the user.
-6.Alerts and information about the medications and nutrition needed in different trimesters.
+5.Developed a tracker to track menstruation cycle, ovulation period etc.
+	
+6.Gave insights about myths, food to be eaten etc.
 
-7.precautions to be taken.
-
-8.To check ups and for delivery-
-	#providing the nearest doctors using Maps and GPS tracking.
-
-**MACHINE LEARNING BASED DISEASE DETECTION APPLICATION**
-9.Provide an interface with which user can select the symptoms from our website and detect the type of disease he/she maybe suffering from.
+7.Precautions to be taken.
+.
+8.Give advice on symptoms entered by the user.
 
 
 **TECHNOLOGY USED-**
-1.Visual studio 2017 with C# for making the web pages 
-2.Pycharm IDE for integrating the trained classifier to our web application using Flask.
+1.Visual studio 2017 for making the web pages 
 
 **DATA/REPOSITORY'S USED**
 1.Templates picked from template.co website
